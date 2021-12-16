@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Yeonwoo+Lim&fontSize=60&animation=fadeIn)
 
-<!-- <h3 align="center">Flutter Developer</h3> -->
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  <a href="https://terry1213.github.io/categories/"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blogger&logoColor=white" /></a>&nbsp
+  <a href="https://terry1213.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-01579B?style=flat-square" /></a>&nbsp
+  <a href="mailto:1213terry@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a>&nbsp
+</p>
 
 ---
 
@@ -15,17 +21,17 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-03A9F4?style=flat-square&logo=Flutter&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Dart-01579B?style=flat-square&logo=Dart&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FF7E00?style=flat-square&logo=Firebase&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-FFB13B?style=flat-square&logo=Javascript&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white" />&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Swift-E56717?style=flat-square&logo=Swift&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-009AEE?style=flat-square&logo=Docker&logoColor=white" /></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white" />&nbsp 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />&nbsp 
 </p>
 
 <p align="center">
