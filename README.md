@@ -37,11 +37,3 @@
 <p align="center">
   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry1213&theme=dark&layout=compact&locale=kr&langs_count=6&hide=scss" alt="Github stats" />
 </p>
-
-<br>
-
-<h3 align="center">Coding Time</h3>
-
-<p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/wakatime?username=terry1213&theme=dark&locale=kr" />
-</p>
