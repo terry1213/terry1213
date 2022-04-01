@@ -33,7 +33,3 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />&nbsp 
 </p>
-
-<p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry1213&theme=dark&layout=compact&locale=kr&langs_count=6&hide=scss" alt="Github stats" />
-</p>
