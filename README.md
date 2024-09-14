@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Yeonwoo+Lim&fontSize=60&animation=fadeIn)
-
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <a href="https://terry1213.com/categories/"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Blogger&logoColor=white" /></a>&nbsp
